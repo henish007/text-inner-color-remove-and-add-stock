@@ -1,5 +1,4 @@
 h2 {
-    color: black;
     -webkit-text-fill-color: #ffffff00;
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: black;
